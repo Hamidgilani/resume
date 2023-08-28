@@ -1,13 +1,12 @@
-# John Doe
+# Hamid Haider Gilani
 
 Curriculum Vitae
 
-![](photo.jpg)
 
-`email`    [john.doe@example.com](mailto:john.doe@example.com) |
-`homepage` [example.com](https://example.com) |
-`linkedin` [your-linkedin-url](https://www.linkedin.com/in/your-linkedin-url/) |
-`github`   [your-github-username](https://github.com/your-github-username)
+`Email`    [john.doe@example.com](mailto:john.doe@example.com) |
+`Homepage` [example.com](https://example.com) |
+`LinkedIn` [your-linkedin-url](https://www.linkedin.com/in/your-linkedin-url/) |
+`Github`   [your-github-username](https://github.com/your-github-username)
 
 ## Work Experience
 
